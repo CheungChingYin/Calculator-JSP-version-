@@ -1,4 +1,4 @@
 # Calculator-JSP-version-
-This is the simple web calculator by JSP
-TomCat version 8.5
-JDK version 1.8.0_161
+<p>This is the simple web calculator by JSP</p>
+<p>TomCat version 8.5</p>
+<p>JDK version 1.8.0_161</p>
